@@ -1,0 +1,17 @@
+body{
+    background-color:yellow;
+    
+}
+table{
+   
+    text-align: center;
+    border-collapse: separate;
+    border-spacing: 3px;
+    
+}
+tr,td{
+    border-radius: 10%;
+    width: 60px; 
+    height: 60px; 
+    text-align: center; 
+}
